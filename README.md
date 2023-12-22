@@ -14,6 +14,7 @@ Usage:
 
 Demonstrates basic CRUD operations on a Task entity using Spring Boot and H2 Database.
 Endpoints can be tested using tools like Postman or web browsers.
+
 Instructions:
 
 Ensure you have Java and Maven installed.
